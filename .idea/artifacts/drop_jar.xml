@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/drop_jar</output-path>
+    <root id="archive" name="drop.jar">
+      <element id="module-output" name="drop" />
+    </root>
+  </artifact>
+</component>
